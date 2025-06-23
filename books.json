@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1746914997985",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "type": "Non-fiction",
+    "addedOn": "2025-05-10T22:09:57.985Z"
+  },
+  {
+    "id": "1746915033971",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "type": "Fiction",
+    "addedOn": "2025-05-10T22:10:33.971Z"
+  },
+  {
+    "id": "1746915068057",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "type": "Sci-fi",
+    "addedOn": "2025-05-10T22:11:08.057Z"
+  },
+  {
+    "id": "1746915093658",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2014,
+    "type": "Non-fiction",
+    "addedOn": "2025-05-10T22:11:33.658Z"
+  },
+  {
+    "id": "1746915144083",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "type": "Fiction",
+    "addedOn": "2025-05-10T22:12:24.083Z"
+  },
+  {
+    "id": "1746915223439",
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "year": 1947,
+    "type": "Biography",
+    "addedOn": "2025-05-10T22:13:43.439Z"
+  },
+  {
+    "id": "1746915266119",
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "year": 1994,
+    "type": "Biography",
+    "addedOn": "2025-05-10T22:14:26.119Z"
+  },
+  {
+    "id": "1746915408435",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "type": "Fantasy",
+    "addedOn": "2025-05-10T22:16:48.435Z"
+  },
+  {
+    "id": "1746915483808",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "year": 1996,
+    "type": "Fantasy",
+    "addedOn": "2025-05-10T22:18:03.808Z"
+  },
+  {
+    "id": "1746916053225",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "type": "Fiction",
+    "addedOn": "2025-05-10T22:27:33.225Z"
+  },
+  {
+    "id": "1747048667931",
+    "title": "dune",
+    "author": "Frank",
+    "year": 2015,
+    "type": "Non-fiction",
+    "addedOn": "2025-05-12T11:17:47.931Z"
+  }
+]
